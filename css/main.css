@@ -13407,7 +13407,7 @@ a:hover, .btn-link:hover {
   padding: 15px 0 30px;
   position: relative;
 }
-.section-title:after {
+.section-title::after {
   content: "";
   position: absolute;
   display: block;
